@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Lailassantos
-- 👀 I’m interested in entering the technology world
-- 🌱 I’m currently learning korean language
-- 📫 How to reach me: lailasantos88@hotmail.com
+- 👋 Olá, eu sou Lailassantos
+- 👀 Tenho interesse em entrar no fantástico mundo da tecnologia
+- 🤯 Estou estudando coreano para ampliar minhas possibilidades
+
+
 
 <!---
 Lailassantos/Lailassantos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
